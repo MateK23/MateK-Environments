@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Temporary folders
+Intermediate/
+Binaries/
+PaintGame/DerivedDataCache/*
+Saved/
